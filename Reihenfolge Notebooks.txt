@@ -1,6 +1,8 @@
 Import Data =)
 Random Forest =)
-Web Scrape
+Web Scrape =)
+Premier League =)
+Name Matching
 Player Stats
 scrape_transfermarkt
 Benchmarks
