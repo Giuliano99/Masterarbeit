@@ -3,6 +3,6 @@ Random Forest =)
 Web Scrape =)
 Premier League =)
 Name Matching =)
-Player Stats
-scrape_transfermarkt
+Player Stats =)
+scrape_transfermarkt =)
 Benchmarks
