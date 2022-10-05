@@ -1,0 +1,351 @@
+,home_team,away_team,H,D,A,game_id
+0,Southampton,Manchester Utd,0.038,0.10800000000000001,0.8540000000000001,SouthamptonManchester Utd
+1,West Ham,Norwich City,0.7020000000000001,0.226,0.07200000000000001,West HamNorwich City
+2,Newcastle Utd,Watford,0.493,0.37,0.13699999999999998,Newcastle UtdWatford
+3,Manchester City,Brighton,0.973,0.01,0.017,Manchester CityBrighton
+4,Chelsea,Sheffield Utd,0.955,0.031,0.013999999999999999,ChelseaSheffield Utd
+5,Crystal Palace,Aston Villa,0.639,0.23,0.131,Crystal PalaceAston Villa
+6,Leicester City,Bournemouth,0.88,0.106,0.013999999999999999,Leicester CityBournemouth
+7,Burnley,Liverpool,0.006999999999999999,0.024,0.9690000000000001,BurnleyLiverpool
+8,Everton,Wolves,0.583,0.31,0.107,EvertonWolves
+9,Arsenal,Tottenham,0.38,0.363,0.257,ArsenalTottenham
+0,(1.),Newcastle Utd,0.977,0.011000000000000001,0.011000000000000001,(1.)Newcastle Utd
+1,(9.),Crystal Palace,0.943,0.053,0.004,(9.)Crystal Palace
+2,Sheffield Utd,Southampton,0.376,0.40299999999999997,0.221,Sheffield UtdSouthampton
+3,Wolves,Chelsea,0.141,0.217,0.643,WolvesChelsea
+4,Brighton,Burnley,0.259,0.563,0.179,BrightonBurnley
+5,Manchester Utd,Leicester City,0.684,0.19399999999999998,0.122,Manchester UtdLeicester City
+6,Norwich City,Manchester City,0.0,0.004,0.996,Norwich CityManchester City
+7,Bournemouth,Everton,0.086,0.25,0.664,BournemouthEverton
+8,Watford,Arsenal,0.037000000000000005,0.03,0.9329999999999999,WatfordArsenal
+9,Aston Villa,West Ham,0.21,0.365,0.424,Aston VillaWest Ham
+0,Southampton,Bournemouth,0.691,0.253,0.055999999999999994,SouthamptonBournemouth
+1,Leicester City,Tottenham,0.155,0.252,0.5920000000000001,Leicester CityTottenham
+2,Manchester City,Watford,1.0,0.0,0.0,Manchester CityWatford
+3,Burnley,Norwich City,0.386,0.349,0.266,BurnleyNorwich City
+4,Everton,Sheffield Utd,0.909,0.062,0.028999999999999998,EvertonSheffield Utd
+5,Newcastle Utd,Brighton,0.6709999999999999,0.243,0.086,Newcastle UtdBrighton
+6,West Ham,Manchester Utd,0.105,0.226,0.669,West HamManchester Utd
+7,Crystal Palace,Wolves,0.5770000000000001,0.23,0.19399999999999998,Crystal PalaceWolves
+8,Chelsea,Liverpool,0.081,0.243,0.6759999999999999,ChelseaLiverpool
+9,Arsenal,Aston Villa,0.956,0.027999999999999997,0.016,ArsenalAston Villa
+0,Sheffield Utd,Liverpool,0.004,0.009000000000000001,0.987,Sheffield UtdLiverpool
+1,Wolves,Watford,0.7440000000000001,0.203,0.053,WolvesWatford
+2,Tottenham,Southampton,0.956,0.04,0.004,TottenhamSouthampton
+3,Chelsea,Brighton,0.9470000000000001,0.044000000000000004,0.009000000000000001,ChelseaBrighton
+4,Bournemouth,West Ham,0.264,0.38299999999999995,0.35200000000000004,BournemouthWest Ham
+5,Crystal Palace,Norwich City,0.67,0.19399999999999998,0.13699999999999998,Crystal PalaceNorwich City
+6,Aston Villa,Burnley,0.445,0.322,0.233,Aston VillaBurnley
+7,Everton,Manchester City,0.0,0.066,0.934,EvertonManchester City
+8,Leicester City,Newcastle Utd,0.9309999999999999,0.055999999999999994,0.013000000000000001,Leicester CityNewcastle Utd
+9,Manchester Utd,Arsenal,0.37799999999999995,0.382,0.239,Manchester UtdArsenal
+0,Brighton,Tottenham,0.032,0.065,0.903,BrightonTottenham
+1,Watford,Sheffield Utd,0.436,0.264,0.3,WatfordSheffield Utd
+2,Norwich City,Aston Villa,0.6409999999999999,0.259,0.1,Norwich CityAston Villa
+3,Liverpool,Leicester City,0.904,0.073,0.023,LiverpoolLeicester City
+4,Burnley,Everton,0.336,0.345,0.318,BurnleyEverton
+5,West Ham,Crystal Palace,0.857,0.094,0.049,West HamCrystal Palace
+6,Southampton,Chelsea,0.035,0.115,0.85,SouthamptonChelsea
+7,Arsenal,Bournemouth,0.956,0.031,0.013000000000000001,ArsenalBournemouth
+8,Manchester City,Wolves,0.9690000000000001,0.022000000000000002,0.009000000000000001,Manchester CityWolves
+9,Newcastle Utd,Manchester Utd,0.018000000000000002,0.154,0.828,Newcastle UtdManchester Utd
+0,Everton,West Ham,0.456,0.23800000000000002,0.306,EvertonWest Ham
+1,Tottenham,Watford,0.9670000000000001,0.024,0.009000000000000001,TottenhamWatford
+2,Wolves,Southampton,0.708,0.245,0.047,WolvesSouthampton
+3,Leicester City,Burnley,0.9620000000000001,0.024,0.013999999999999999,Leicester CityBurnley
+4,Aston Villa,Brighton,0.599,0.297,0.10400000000000001,Aston VillaBrighton
+5,Chelsea,Newcastle Utd,0.948,0.052000000000000005,0.0,ChelseaNewcastle Utd
+6,Bournemouth,Norwich City,0.726,0.151,0.12300000000000001,BournemouthNorwich City
+7,Crystal Palace,Manchester City,0.027999999999999997,0.052000000000000005,0.92,Crystal PalaceManchester City
+8,Manchester Utd,Liverpool,0.065,0.138,0.797,Manchester UtdLiverpool
+9,Sheffield Utd,Arsenal,0.018000000000000002,0.065,0.917,Sheffield UtdArsenal
+0,Southampton,Leicester City,0.078,0.161,0.762,SouthamptonLeicester City
+1,Manchester City,Aston Villa,0.985,0.015,0.0,Manchester CityAston Villa
+2,Watford,Bournemouth,0.265,0.304,0.431,WatfordBournemouth
+3,West Ham,Sheffield Utd,0.76,0.18600000000000003,0.054000000000000006,West HamSheffield Utd
+4,Brighton,Everton,0.23,0.47100000000000003,0.299,BrightonEverton
+5,Burnley,Chelsea,0.044000000000000004,0.102,0.8540000000000001,BurnleyChelsea
+6,Newcastle Utd,Wolves,0.22899999999999998,0.419,0.35200000000000004,Newcastle UtdWolves
+7,Norwich City,Manchester Utd,0.1,0.134,0.7659999999999999,Norwich CityManchester Utd
+8,Arsenal,Crystal Palace,0.8859999999999999,0.105,0.01,ArsenalCrystal Palace
+9,(1.),Tottenham,0.9279999999999999,0.062,0.01,(1.)Tottenham
+0,Bournemouth,Manchester Utd,0.039,0.152,0.809,BournemouthManchester Utd
+1,Manchester City,Southampton,0.99,0.005,0.005,Manchester CitySouthampton
+2,Sheffield Utd,Burnley,0.66,0.272,0.068,Sheffield UtdBurnley
+3,West Ham,Newcastle Utd,0.845,0.107,0.049,West HamNewcastle Utd
+4,Brighton,Norwich City,0.675,0.262,0.063,BrightonNorwich City
+5,Arsenal,Wolves,0.8640000000000001,0.11699999999999999,0.019,ArsenalWolves
+6,Aston Villa,Liverpool,0.005,0.013999999999999999,0.981,Aston VillaLiverpool
+7,Watford,Chelsea,0.034,0.013999999999999999,0.9520000000000001,WatfordChelsea
+8,Crystal Palace,Leicester City,0.091,0.273,0.636,Crystal PalaceLeicester City
+9,Everton,Tottenham,0.124,0.297,0.579,EvertonTottenham
+0,Norwich City,Watford,0.67,0.214,0.115,Norwich CityWatford
+1,Chelsea,Crystal Palace,0.958,0.042,0.0,ChelseaCrystal Palace
+2,Tottenham,Sheffield Utd,0.856,0.113,0.031,TottenhamSheffield Utd
+3,Southampton,Everton,0.325,0.34,0.335,SouthamptonEverton
+4,Newcastle Utd,Bournemouth,0.41200000000000003,0.21600000000000003,0.371,Newcastle UtdBournemouth
+5,Burnley,West Ham,0.20199999999999999,0.466,0.332,BurnleyWest Ham
+6,Leicester City,Arsenal,0.636,0.174,0.19,Leicester CityArsenal
+7,Wolves,Aston Villa,0.738,0.195,0.067,WolvesAston Villa
+8,Manchester Utd,Brighton,0.888,0.077,0.036000000000000004,Manchester UtdBrighton
+9,(1.),Manchester City,0.5920000000000001,0.301,0.107,(1.)Manchester City
+0,West Ham,Tottenham,0.111,0.182,0.7070000000000001,West HamTottenham
+1,Watford,Burnley,0.377,0.337,0.28600000000000003,WatfordBurnley
+2,Brighton,Leicester City,0.025,0.065,0.91,BrightonLeicester City
+3,Crystal Palace,Liverpool,0.01,0.02,0.97,Crystal PalaceLiverpool
+4,Everton,Norwich City,0.904,0.076,0.02,EvertonNorwich City
+5,Arsenal,Southampton,0.96,0.025,0.015,ArsenalSouthampton
+6,Bournemouth,Wolves,0.36200000000000004,0.42200000000000004,0.21600000000000003,BournemouthWolves
+7,Manchester City,Chelsea,0.767,0.193,0.04,Manchester CityChelsea
+8,Sheffield Utd,Manchester Utd,0.172,0.26,0.569,Sheffield UtdManchester Utd
+9,Aston Villa,Newcastle Utd,0.507,0.28300000000000003,0.21,Aston VillaNewcastle Utd
+0,Newcastle Utd,Manchester City,0.011000000000000001,0.005,0.9840000000000001,Newcastle UtdManchester City
+1,Tottenham,Bournemouth,0.9670000000000001,0.022000000000000002,0.011000000000000001,TottenhamBournemouth
+2,(1.),Brighton,0.995,0.0,0.005,(1.)Brighton
+3,Burnley,Crystal Palace,0.63,0.255,0.114,BurnleyCrystal Palace
+4,Chelsea,West Ham,0.9620000000000001,0.033,0.005,ChelseaWest Ham
+5,Southampton,Watford,0.632,0.28600000000000003,0.081,SouthamptonWatford
+6,Wolves,Sheffield Utd,0.624,0.29600000000000004,0.079,WolvesSheffield Utd
+7,Norwich City,Arsenal,0.063,0.111,0.825,Norwich CityArsenal
+8,Manchester Utd,Aston Villa,0.9259999999999999,0.057999999999999996,0.016,Manchester UtdAston Villa
+9,Leicester City,Everton,0.9159999999999999,0.068,0.016,Leicester CityEverton
+0,Crystal Palace,Bournemouth,0.711,0.22,0.069,Crystal PalaceBournemouth
+1,Burnley,Manchester City,0.025,0.013000000000000001,0.9620000000000001,BurnleyManchester City
+2,Southampton,Norwich City,0.606,0.28,0.114,SouthamptonNorwich City
+3,Chelsea,Aston Villa,0.9540000000000001,0.028999999999999998,0.017,ChelseaAston Villa
+4,Leicester City,Watford,0.9490000000000001,0.034,0.017,Leicester CityWatford
+5,Manchester Utd,Tottenham,0.223,0.4,0.377,Manchester UtdTottenham
+6,Wolves,West Ham,0.7240000000000001,0.19,0.086,WolvesWest Ham
+7,Liverpool,Everton,0.96,0.034,0.006,LiverpoolEverton
+8,Sheffield Utd,Newcastle Utd,0.7240000000000001,0.18899999999999997,0.086,Sheffield UtdNewcastle Utd
+9,Arsenal,Brighton,0.919,0.076,0.005,ArsenalBrighton
+0,Everton,Chelsea,0.047,0.11800000000000001,0.8340000000000001,EvertonChelsea
+1,Watford,Crystal Palace,0.165,0.259,0.5760000000000001,WatfordCrystal Palace
+2,Tottenham,Burnley,0.965,0.035,0.0,TottenhamBurnley
+3,Bournemouth,Liverpool,0.012,0.006,0.982,BournemouthLiverpool
+4,Manchester City,Manchester Utd,0.838,0.11599999999999999,0.046,Manchester CityManchester Utd
+5,Norwich City,Sheffield Utd,0.3,0.306,0.39399999999999996,Norwich CitySheffield Utd
+6,Newcastle Utd,Southampton,0.7170000000000001,0.233,0.05,Newcastle UtdSouthampton
+7,Aston Villa,Leicester City,0.078,0.094,0.828,Aston VillaLeicester City
+8,Brighton,Wolves,0.133,0.265,0.602,BrightonWolves
+9,West Ham,Arsenal,0.226,0.28,0.495,West HamArsenal
+0,Liverpool,Watford,0.9890000000000001,0.006,0.006,LiverpoolWatford
+1,Sheffield Utd,Aston Villa,0.7709999999999999,0.156,0.073,Sheffield UtdAston Villa
+2,Leicester City,Norwich City,0.978,0.011000000000000001,0.011000000000000001,Leicester CityNorwich City
+3,Burnley,Newcastle Utd,0.369,0.469,0.162,BurnleyNewcastle Utd
+4,Chelsea,Bournemouth,0.972,0.011000000000000001,0.017,ChelseaBournemouth
+5,Southampton,West Ham,0.425,0.376,0.19899999999999998,SouthamptonWest Ham
+6,Wolves,Tottenham,0.083,0.265,0.652,WolvesTottenham
+7,Manchester Utd,Everton,0.917,0.055,0.027999999999999997,Manchester UtdEverton
+8,Arsenal,Manchester City,0.038,0.154,0.8079999999999999,ArsenalManchester City
+9,Crystal Palace,Brighton,0.774,0.172,0.054000000000000006,Crystal PalaceBrighton
+0,Everton,Arsenal,0.301,0.295,0.40299999999999997,EvertonArsenal
+1,Norwich City,Wolves,0.11699999999999999,0.10099999999999999,0.782,Norwich CityWolves
+2,Newcastle Utd,Crystal Palace,0.575,0.27899999999999997,0.145,Newcastle UtdCrystal Palace
+3,Brighton,Sheffield Utd,0.223,0.302,0.475,BrightonSheffield Utd
+4,Bournemouth,Burnley,0.609,0.285,0.106,BournemouthBurnley
+5,Aston Villa,Southampton,0.626,0.251,0.12300000000000001,Aston VillaSouthampton
+6,Manchester City,Leicester City,0.6779999999999999,0.21100000000000002,0.111,Manchester CityLeicester City
+7,Watford,Manchester Utd,0.011000000000000001,0.033,0.956,WatfordManchester Utd
+8,Tottenham,Chelsea,0.623,0.295,0.08199999999999999,TottenhamChelsea
+9,West Ham,Liverpool,0.04,0.015,0.946,West HamLiverpool
+0,Tottenham,Brighton,0.973,0.006999999999999999,0.02,TottenhamBrighton
+1,Sheffield Utd,Watford,0.851,0.11,0.039,Sheffield UtdWatford
+2,Bournemouth,Arsenal,0.091,0.23399999999999999,0.675,BournemouthArsenal
+3,Chelsea,Southampton,0.968,0.026000000000000002,0.006,ChelseaSouthampton
+4,Aston Villa,Norwich City,0.623,0.26,0.11699999999999999,Aston VillaNorwich City
+5,Crystal Palace,West Ham,0.552,0.344,0.10400000000000001,Crystal PalaceWest Ham
+6,Everton,Burnley,0.7859999999999999,0.16899999999999998,0.045,EvertonBurnley
+7,Manchester Utd,Newcastle Utd,0.877,0.077,0.045,Manchester UtdNewcastle Utd
+8,Leicester City,Liverpool,0.077,0.327,0.596,Leicester CityLiverpool
+9,Wolves,Manchester City,0.055999999999999994,0.081,0.863,WolvesManchester City
+0,Brighton,Bournemouth,0.557,0.35100000000000003,0.092,BrightonBournemouth
+1,Watford,Aston Villa,0.413,0.319,0.268,WatfordAston Villa
+2,Southampton,Crystal Palace,0.536,0.275,0.188,SouthamptonCrystal Palace
+3,Newcastle Utd,Everton,0.28300000000000003,0.319,0.39899999999999997,Newcastle UtdEverton
+4,West Ham,Leicester City,0.057,0.078,0.865,West HamLeicester City
+5,Norwich City,Tottenham,0.0,0.035,0.965,Norwich CityTottenham
+6,Burnley,Manchester Utd,0.063,0.18899999999999997,0.748,BurnleyManchester Utd
+7,Arsenal,Chelsea,0.162,0.35100000000000003,0.486,ArsenalChelsea
+8,Liverpool,Wolves,0.946,0.040999999999999995,0.013999999999999999,LiverpoolWolves
+9,Manchester City,Sheffield Utd,0.927,0.053,0.02,Manchester CitySheffield Utd
+0,Brighton,Chelsea,0.028999999999999998,0.10300000000000001,0.868,BrightonChelsea
+1,Burnley,Aston Villa,0.669,0.235,0.096,BurnleyAston Villa
+2,Watford,Wolves,0.091,0.252,0.657,WatfordWolves
+3,Southampton,Tottenham,0.063,0.14,0.797,SouthamptonTottenham
+4,Newcastle Utd,Leicester City,0.027999999999999997,0.091,0.8809999999999999,Newcastle UtdLeicester City
+5,West Ham,Bournemouth,0.68,0.218,0.102,West HamBournemouth
+6,Manchester City,Everton,0.932,0.054000000000000006,0.013999999999999999,Manchester CityEverton
+7,Norwich City,Crystal Palace,0.27899999999999997,0.306,0.415,Norwich CityCrystal Palace
+8,Arsenal,Manchester Utd,0.20800000000000002,0.315,0.47700000000000004,ArsenalManchester Utd
+9,(1.),Sheffield Utd,0.968,0.019,0.013000000000000001,(1.)Sheffield Utd
+0,Sheffield Utd,West Ham,0.685,0.21,0.105,Sheffield UtdWest Ham
+1,Crystal Palace,Arsenal,0.075,0.264,0.66,Crystal PalaceArsenal
+2,Wolves,Newcastle Utd,0.871,0.11699999999999999,0.012,WolvesNewcastle Utd
+3,Manchester Utd,Norwich City,0.92,0.07400000000000001,0.006,Manchester UtdNorwich City
+4,Leicester City,Southampton,0.914,0.067,0.018000000000000002,Leicester CitySouthampton
+5,Chelsea,Burnley,0.982,0.012,0.006,ChelseaBurnley
+6,Everton,Brighton,0.883,0.10400000000000001,0.012,EvertonBrighton
+7,(6.),Liverpool,0.036000000000000004,0.187,0.777,(6.)Liverpool
+8,Bournemouth,Watford,0.392,0.36700000000000005,0.24100000000000002,BournemouthWatford
+9,Aston Villa,Manchester City,0.006,0.024,0.97,Aston VillaManchester City
+0,Watford,Tottenham,0.075,0.161,0.764,WatfordTottenham
+1,West Ham,Everton,0.239,0.409,0.35200000000000004,West HamEverton
+2,Norwich City,Bournemouth,0.563,0.284,0.153,Norwich CityBournemouth
+3,Southampton,Wolves,0.43200000000000005,0.261,0.307,SouthamptonWolves
+4,Brighton,Aston Villa,0.682,0.19899999999999998,0.11900000000000001,BrightonAston Villa
+5,Arsenal,Sheffield Utd,0.733,0.205,0.063,ArsenalSheffield Utd
+6,Manchester City,Crystal Palace,0.96,0.023,0.017,Manchester CityCrystal Palace
+7,Newcastle Utd,Chelsea,0.045,0.063,0.892,Newcastle UtdChelsea
+8,Burnley,Leicester City,0.034,0.027999999999999997,0.938,BurnleyLeicester City
+9,(1.),Manchester Utd,0.8759999999999999,0.084,0.039,(1.)Manchester Utd
+0,Crystal Palace,Southampton,0.564,0.295,0.141,Crystal PalaceSouthampton
+1,Sheffield Utd,Manchester City,0.006999999999999999,0.054000000000000006,0.94,Sheffield UtdManchester City
+2,Aston Villa,Watford,0.537,0.228,0.235,Aston VillaWatford
+3,Bournemouth,Brighton,0.349,0.423,0.228,BournemouthBrighton
+4,Everton,Newcastle Utd,0.852,0.128,0.02,EvertonNewcastle Utd
+5,Chelsea,Arsenal,0.7809999999999999,0.159,0.06,ChelseaArsenal
+6,Leicester City,West Ham,0.929,0.053,0.018000000000000002,Leicester CityWest Ham
+7,Tottenham,Norwich City,0.9590000000000001,0.018000000000000002,0.024,TottenhamNorwich City
+8,Manchester Utd,Burnley,0.9359999999999999,0.064,0.0,Manchester UtdBurnley
+9,Wolves,Liverpool,0.034,0.067,0.899,WolvesLiverpool
+0,Leicester City,Chelsea,0.519,0.354,0.127,Leicester CityChelsea
+1,Liverpool,Southampton,0.9740000000000001,0.016,0.01,LiverpoolSouthampton
+2,Bournemouth,Aston Villa,0.447,0.284,0.268,BournemouthAston Villa
+3,West Ham,Brighton,0.698,0.217,0.085,West HamBrighton
+4,Watford,Everton,0.183,0.309,0.508,WatfordEverton
+5,Newcastle Utd,Norwich City,0.8640000000000001,0.084,0.052000000000000005,Newcastle UtdNorwich City
+6,Crystal Palace,Sheffield Utd,0.384,0.389,0.226,Crystal PalaceSheffield Utd
+7,Manchester Utd,Wolves,0.7020000000000001,0.19399999999999998,0.105,Manchester UtdWolves
+8,Burnley,Arsenal,0.11900000000000001,0.16,0.722,BurnleyArsenal
+9,Tottenham,Manchester City,0.092,0.215,0.6920000000000001,TottenhamManchester City
+0,Everton,Crystal Palace,0.897,0.086,0.017,EvertonCrystal Palace
+1,Brighton,Watford,0.573,0.337,0.09,BrightonWatford
+2,Sheffield Utd,Bournemouth,0.9059999999999999,0.07200000000000001,0.022000000000000002,Sheffield UtdBournemouth
+3,Wolves,Leicester City,0.153,0.35200000000000004,0.495,WolvesLeicester City
+4,Southampton,Burnley,0.6729999999999999,0.231,0.095,SouthamptonBurnley
+5,Norwich City,Liverpool,0.02,0.005,0.975,Norwich CityLiverpool
+6,Aston Villa,Tottenham,0.02,0.099,0.882,Aston VillaTottenham
+7,Arsenal,Newcastle Utd,0.833,0.14800000000000002,0.02,ArsenalNewcastle Utd
+8,Chelsea,Manchester Utd,0.6809999999999999,0.235,0.083,ChelseaManchester Utd
+9,Manchester City,West Ham,0.985,0.0,0.015,Manchester CityWest Ham
+0,Chelsea,Tottenham,0.568,0.318,0.114,ChelseaTottenham
+1,Sheffield Utd,Brighton,0.882,0.084,0.034,Sheffield UtdBrighton
+2,Crystal Palace,Newcastle Utd,0.39899999999999997,0.489,0.11199999999999999,Crystal PalaceNewcastle Utd
+3,Southampton,Aston Villa,0.8190000000000001,0.147,0.034,SouthamptonAston Villa
+4,Burnley,Bournemouth,0.746,0.198,0.055999999999999994,BurnleyBournemouth
+5,Leicester City,Manchester City,0.163,0.287,0.551,Leicester CityManchester City
+6,Manchester Utd,Watford,0.929,0.066,0.005,Manchester UtdWatford
+7,Wolves,Norwich City,0.956,0.016,0.027000000000000003,WolvesNorwich City
+8,Arsenal,Everton,0.6940000000000001,0.213,0.09300000000000001,ArsenalEverton
+9,Liverpool,West Ham,0.973,0.016,0.011000000000000001,LiverpoolWest Ham
+0,Norwich City,Leicester City,0.018000000000000002,0.047,0.935,Norwich CityLeicester City
+1,Brighton,Crystal Palace,0.371,0.389,0.24,BrightonCrystal Palace
+2,West Ham,Southampton,0.441,0.218,0.341,West HamSouthampton
+3,Newcastle Utd,Burnley,0.598,0.29100000000000004,0.11199999999999999,Newcastle UtdBurnley
+4,Bournemouth,Chelsea,0.039,0.061,0.899,BournemouthChelsea
+5,Watford,Liverpool,0.017,0.017,0.9670000000000001,WatfordLiverpool
+6,Tottenham,Wolves,0.6940000000000001,0.222,0.083,TottenhamWolves
+7,Everton,Manchester Utd,0.156,0.33299999999999996,0.511,EvertonManchester Utd
+8,Aston Villa,Sheffield Utd,0.16699999999999998,0.293,0.54,Aston VillaSheffield Utd
+9,Manchester City,Arsenal,0.91,0.053,0.037000000000000005,Manchester CityArsenal
+0,Liverpool,Bournemouth,0.982,0.006,0.012,LiverpoolBournemouth
+1,Arsenal,West Ham,0.91,0.078,0.012,ArsenalWest Ham
+2,Crystal Palace,Watford,0.6709999999999999,0.18,0.15,Crystal PalaceWatford
+3,Sheffield Utd,Norwich City,0.8859999999999999,0.078,0.036000000000000004,Sheffield UtdNorwich City
+4,Southampton,Newcastle Utd,0.617,0.305,0.078,SouthamptonNewcastle Utd
+5,Wolves,Brighton,0.97,0.03,0.0,WolvesBrighton
+6,Burnley,Tottenham,0.11800000000000001,0.249,0.633,BurnleyTottenham
+7,Chelsea,Everton,0.85,0.098,0.052000000000000005,ChelseaEverton
+8,Manchester Utd,Manchester City,0.10300000000000001,0.282,0.615,Manchester UtdManchester City
+9,Leicester City,Aston Villa,0.927,0.05,0.022000000000000002,Leicester CityAston Villa
+0,Norwich City,Southampton,0.265,0.307,0.429,Norwich CitySouthampton
+1,Tottenham,Manchester Utd,0.254,0.326,0.42,TottenhamManchester Utd
+2,Watford,Leicester City,0.087,0.061,0.852,WatfordLeicester City
+3,Brighton,Arsenal,0.040999999999999995,0.14400000000000002,0.815,BrightonArsenal
+4,West Ham,Wolves,0.11699999999999999,0.23,0.653,West HamWolves
+5,Bournemouth,Crystal Palace,0.253,0.361,0.387,BournemouthCrystal Palace
+6,Newcastle Utd,Sheffield Utd,0.268,0.35100000000000003,0.381,Newcastle UtdSheffield Utd
+7,Aston Villa,Chelsea,0.031,0.031,0.9390000000000001,Aston VillaChelsea
+8,Everton,Liverpool,0.055999999999999994,0.086,0.8590000000000001,EvertonLiverpool
+9,Manchester City,Burnley,0.985,0.01,0.005,Manchester CityBurnley
+0,Leicester City,Brighton,0.9790000000000001,0.006999999999999999,0.013999999999999999,Leicester CityBrighton
+1,Tottenham,West Ham,0.924,0.055,0.021,TottenhamWest Ham
+2,Newcastle Utd,Aston Villa,0.778,0.13699999999999998,0.085,Newcastle UtdAston Villa
+3,Norwich City,Everton,0.046,0.15,0.804,Norwich CityEverton
+4,Wolves,Bournemouth,0.9279999999999999,0.059000000000000004,0.013000000000000001,WolvesBournemouth
+5,Manchester Utd,Sheffield Utd,0.825,0.162,0.013000000000000001,Manchester UtdSheffield Utd
+6,Liverpool,Crystal Palace,0.981,0.019,0.0,LiverpoolCrystal Palace
+7,Burnley,Watford,0.423,0.40399999999999997,0.17300000000000001,BurnleyWatford
+8,Southampton,Arsenal,0.17800000000000002,0.293,0.529,SouthamptonArsenal
+9,Chelsea,Manchester City,0.08800000000000001,0.34600000000000003,0.5660000000000001,ChelseaManchester City
+0,Aston Villa,Wolves,0.10099999999999999,0.10099999999999999,0.799,Aston VillaWolves
+1,Watford,Southampton,0.311,0.45,0.23800000000000002,WatfordSouthampton
+2,Crystal Palace,Burnley,0.703,0.213,0.084,Crystal PalaceBurnley
+3,Brighton,Manchester Utd,0.013000000000000001,0.05,0.937,BrightonManchester Utd
+4,Arsenal,Norwich City,0.9620000000000001,0.038,0.0,ArsenalNorwich City
+5,Bournemouth,Newcastle Utd,0.201,0.35200000000000004,0.447,BournemouthNewcastle Utd
+6,Everton,Leicester City,0.16399999999999998,0.258,0.579,EvertonLeicester City
+7,West Ham,Chelsea,0.038,0.031,0.9309999999999999,West HamChelsea
+8,Sheffield Utd,Tottenham,0.10400000000000001,0.25,0.6459999999999999,Sheffield UtdTottenham
+9,Manchester City,Liverpool,0.273,0.345,0.382,Manchester CityLiverpool
+0,Norwich City,Brighton,0.196,0.21,0.594,Norwich CityBrighton
+1,Manchester Utd,Bournemouth,0.993,0.006999999999999999,0.0,Manchester UtdBournemouth
+2,Leicester City,Crystal Palace,0.887,0.092,0.021,Leicester CityCrystal Palace
+3,Wolves,Arsenal,0.44799999999999995,0.322,0.231,WolvesArsenal
+4,Chelsea,Watford,0.972,0.0,0.027999999999999997,ChelseaWatford
+5,Burnley,Sheffield Utd,0.259,0.449,0.293,BurnleySheffield Utd
+6,Newcastle Utd,West Ham,0.6459999999999999,0.252,0.102,Newcastle UtdWest Ham
+7,Liverpool,Aston Villa,0.9520000000000001,0.027000000000000003,0.021,LiverpoolAston Villa
+8,Southampton,Manchester City,0.013999999999999999,0.054000000000000006,0.932,SouthamptonManchester City
+9,Tottenham,Everton,0.72,0.24,0.04,TottenhamEverton
+0,Crystal Palace,Chelsea,0.008,0.067,0.925,Crystal PalaceChelsea
+1,Watford,Norwich City,0.8170000000000001,0.10800000000000001,0.075,WatfordNorwich City
+2,Arsenal,Leicester City,0.496,0.28300000000000003,0.22,ArsenalLeicester City
+3,West Ham,Burnley,0.629,0.182,0.18899999999999997,West HamBurnley
+4,Manchester City,Newcastle Utd,0.97,0.023,0.008,Manchester CityNewcastle Utd
+5,Sheffield Utd,Wolves,0.14400000000000002,0.379,0.47700000000000004,Sheffield UtdWolves
+6,Brighton,Liverpool,0.015,0.03,0.955,BrightonLiverpool
+7,Everton,Southampton,0.7190000000000001,0.19399999999999998,0.086,EvertonSouthampton
+8,Bournemouth,Tottenham,0.043,0.065,0.892,BournemouthTottenham
+9,Aston Villa,Manchester Utd,0.022000000000000002,0.036000000000000004,0.9420000000000001,Aston VillaManchester Utd
+0,Watford,Newcastle Utd,0.29100000000000004,0.35,0.359,WatfordNewcastle Utd
+1,Norwich City,West Ham,0.13699999999999998,0.214,0.65,Norwich CityWest Ham
+2,Liverpool,Burnley,0.976,0.016,0.008,LiverpoolBurnley
+3,Sheffield Utd,Chelsea,0.049,0.21100000000000002,0.74,Sheffield UtdChelsea
+4,Brighton,Manchester City,0.008,0.008,0.9840000000000001,BrightonManchester City
+5,Wolves,Everton,0.8079999999999999,0.152,0.04,WolvesEverton
+6,Aston Villa,Crystal Palace,0.27899999999999997,0.318,0.40299999999999997,Aston VillaCrystal Palace
+7,Tottenham,Arsenal,0.485,0.33799999999999997,0.177,TottenhamArsenal
+8,Bournemouth,Leicester City,0.062,0.046,0.892,BournemouthLeicester City
+9,Manchester Utd,Southampton,0.9620000000000001,0.038,0.0,Manchester UtdSouthampton
+0,Chelsea,Norwich City,0.991,0.009000000000000001,0.0,ChelseaNorwich City
+1,Burnley,Wolves,0.078,0.32799999999999996,0.594,BurnleyWolves
+2,Manchester City,Bournemouth,0.9840000000000001,0.016,0.0,Manchester CityBournemouth
+3,Newcastle Utd,Tottenham,0.087,0.15,0.764,Newcastle UtdTottenham
+4,Arsenal,Liverpool,0.053,0.237,0.71,ArsenalLiverpool
+5,Everton,Aston Villa,0.835,0.09,0.075,EvertonAston Villa
+6,Leicester City,Sheffield Utd,0.687,0.254,0.06,Leicester CitySheffield Utd
+7,Southampton,Brighton,0.784,0.16399999999999998,0.052000000000000005,SouthamptonBrighton
+8,Crystal Palace,Manchester Utd,0.015,0.03,0.955,Crystal PalaceManchester Utd
+9,West Ham,Watford,0.662,0.271,0.068,West HamWatford
+0,Norwich City,Burnley,0.07200000000000001,0.126,0.802,Norwich CityBurnley
+1,Bournemouth,Southampton,0.218,0.311,0.47100000000000003,BournemouthSouthampton
+2,Tottenham,Leicester City,0.5670000000000001,0.308,0.125,TottenhamLeicester City
+3,Sheffield Utd,Everton,0.669,0.19,0.14,Sheffield UtdEverton
+4,Brighton,Newcastle Utd,0.3,0.433,0.267,BrightonNewcastle Utd
+5,Wolves,Crystal Palace,0.951,0.016,0.033,WolvesCrystal Palace
+6,Watford,Manchester City,0.016,0.008,0.977,WatfordManchester City
+7,Aston Villa,Arsenal,0.053,0.046,0.9009999999999999,Aston VillaArsenal
+8,Manchester Utd,West Ham,0.9620000000000001,0.023,0.015,Manchester UtdWest Ham
+9,Liverpool,Chelsea,0.602,0.263,0.135,LiverpoolChelsea
+0,Everton,Bournemouth,0.765,0.11800000000000001,0.11800000000000001,EvertonBournemouth
+1,Arsenal,Watford,0.875,0.059000000000000004,0.066,ArsenalWatford
+2,Leicester City,Manchester Utd,0.184,0.353,0.46299999999999997,Leicester CityManchester Utd
+3,Manchester City,Norwich City,1.0,0.0,0.0,Manchester CityNorwich City
+4,Southampton,Sheffield Utd,0.368,0.36,0.272,SouthamptonSheffield Utd
+5,Newcastle Utd,Liverpool,0.028999999999999998,0.051,0.919,Newcastle UtdLiverpool
+6,Burnley,Brighton,0.765,0.19899999999999998,0.037000000000000005,BurnleyBrighton
+7,Crystal Palace,Tottenham,0.044000000000000004,0.10300000000000001,0.853,Crystal PalaceTottenham
+8,Chelsea,Wolves,0.654,0.235,0.11,ChelseaWolves
+9,West Ham,Aston Villa,0.544,0.257,0.19899999999999998,West HamAston Villa
